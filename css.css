@@ -1,9 +1,8 @@
-#.img_sz {
+#img_sz {
     height: 300px;
     width: 300px;
     object-fit:cover;
     border-radius:50%;
-
 }
 
 .pos {
