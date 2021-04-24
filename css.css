@@ -3,6 +3,7 @@
     width: 300px;
     object-fit:cover;
     border-radius:50%;
+
 }
 
 .pos {
@@ -21,9 +22,9 @@
 .pos2 {
     background-color: white;
     position: relative;
-    top: -1174px;
+    top: -1050px;
     left: 500px;
-    height: 1480px;
+    height: 1550px;
     width: 1000px;
 }
 hr {
